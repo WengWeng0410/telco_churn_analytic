@@ -53,9 +53,10 @@ Three models have been selected: <br>
 ## Performane Evaluation
 
 Performance of the model as follows: <br>
-* LogisticRegression - 79.62%
+* **LogisticRegression - 79.62%**
 * RandomForestClassifier - 77.88%
 * SVC - 78.58%
 * KNeighborsClassifier - 76.78%
-
 ![](/images/model_performance.png)
+
+Based on the result, LogisticRegression is able to produce the best accuracy score, which is 79.62%.
