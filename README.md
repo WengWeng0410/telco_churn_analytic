@@ -3,7 +3,7 @@
 * Perform data exploratory on the features in the data
 * Perform data cleaning on the dataset 
 * Construct a dashboard for reporting purpose 
-* Develop a model to predict if an existing client will become churner
+* Develop a model to predict if an existing client will become churner, based on services signed up, account information and demographic information.
 
 ## Code and Resources Used
 
@@ -21,3 +21,7 @@ The dataset used in this project can be downloaded from Kaggle (link as shown ab
 * Demograhpic info 
 
 ## Data Cleaning
+Based on the dataset, the data type of the feature TotalCharges is a string. It has to be changed to numeric before data exploratory and modeling are carried out. However, during the string to numeric conversion, there are 11 null values generated due unable to convert to numeric. Hence, the 11 null values are replaced with the mean value of TotalCharges. <br> There is no other missing values for the rest of the features.
+
+## Data Exploration
+
