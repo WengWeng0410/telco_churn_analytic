@@ -40,3 +40,22 @@ Example of the charts produced as follows: <br>
 ![](/images/services_client_vs_churner.png)
 
 ![](/images/payment_client_vs_churner.png)
+
+## Model Building
+Prior to the model building, the data that is with non numeric type has to be converted to numeric value. **LabelEncoder** from **sklearn.preprocesing** is used to accomplish the conversion task. Besides that, **MinMaxScaler** from **sklearn.preprocesing** is also used to scale the values of tenure, MontlhyCharges and TotalCharges into range of 0 to 1. Reason being these 3 features are measured at different scales and do not contribute equally in model training and may ended with creating a bias. <br> 
+**train_test_split** from **sklearn.model_selection** is also used to separat the dataset into training and testing set of data. In this project, 80% of the dataset is used as training set and the remaining 20% is used as testing set. <br>
+Three models have been selected: <br>
+* LogisticRegression
+* RandomForestClassifier
+* SVC
+* KNeighborsClassifier
+
+## Performane Evaluation
+
+Performance of the model as follows: <br>
+* LogisticRegression - 79.62%
+* RandomForestClassifier - 77.88%
+* SVC - 78.58%
+* KNeighborsClassifier - 76.78%
+
+![](/images/model_performance.png)
