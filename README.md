@@ -3,7 +3,7 @@
 * Perform data exploratory on the features in the data
 * Perform data cleaning on the dataset 
 * Construct a dashboard for reporting purpose 
-* Develop a model to predict if an existing client will become churner, based on services signed up, account information and demographic information.
+* Develop a model to predict if an existing client will become churner, based on services signed up, account information and demographic information
 
 ## Code and Resources Used
 
