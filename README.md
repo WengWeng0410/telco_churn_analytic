@@ -10,6 +10,7 @@
 **Python Version:** 3.7 <br>
 **Packages:** numpy, pandas, seaborn, matplotlib, sklearn <br>
 **IDE:** Google Colab <br>
+**Dashboard Software:** Google Data Studio <br>
 **Dataset:** https://www.kaggle.com/blastchar/telco-customer-churn
 
 ## Data Gathering
