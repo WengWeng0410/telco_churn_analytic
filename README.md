@@ -1,4 +1,4 @@
-# Data Science Telco Customer Churn Analytic
+# Telco Customer Churn Analytic
 
 * Perform data exploratory on the features in the data
 * Perform data cleaning on the dataset 
