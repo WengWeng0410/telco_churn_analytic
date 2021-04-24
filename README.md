@@ -33,7 +33,7 @@ To understand the patterns and values of the data by using different types of vi
 * Phone services signed up by the client and churner
 * Contract term and payment method
 * Monthly and total charges of client and churner
-* Dashboard of Telco Churn is available [**here**](https://datastudio.google.com/reporting/f1db2a3d-9b9f-4501-a9a8-2c2e4677953c) 
+* **Dashboard** of Telco Churn is available [**here**](https://datastudio.google.com/reporting/f1db2a3d-9b9f-4501-a9a8-2c2e4677953c) 
 
 Example of the charts produced as follows: <br>
 
