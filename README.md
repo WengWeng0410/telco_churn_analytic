@@ -13,7 +13,8 @@
 **Packages:** numpy, pandas, seaborn, matplotlib, sklearn <br>
 **IDE:** Google Colab <br>
 **Dashboard Software:** Google Data Studio <br>
-**Dataset:** https://www.kaggle.com/blastchar/telco-customer-churn
+**Dataset:** https://www.kaggle.com/blastchar/telco-customer-churn <br>
+**Python Script:** [Notebook](https://colab.research.google.com/drive/1RX6vvzO4sldg3LFnFMI6ihBZlhZiOX2T?usp=sharing)
 
 ## Data Gathering
 
