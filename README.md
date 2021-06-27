@@ -14,7 +14,7 @@
 **IDE:** Google Colab <br>
 **Dashboard Software:** Google Data Studio <br>
 **Dataset:** https://www.kaggle.com/blastchar/telco-customer-churn <br>
-**Python Script:** [Notebook](https://colab.research.google.com/drive/1RX6vvzO4sldg3LFnFMI6ihBZlhZiOX2T?usp=sharing)
+**Python Script:** [Notebook](https://colab.research.google.com/drive/1Vsc4aUD_-CEf85OFs-4n7F8pBwWRLgu2?usp=sharing)
 
 ## Data Gathering
 
@@ -64,7 +64,7 @@ Performance of the model as follows: <br>
 * **LogisticRegression - 79.62%**
 * RandomForestClassifier - 77.88%
 * SVC - 78.58%
-* KNeighborsClassifier - 76.78%
+* KNeighborsClassifier - 76.78% <br>
 ![](/images/model_performance.png)
 
 Based on the result, LogisticRegression is able to produce the best accuracy score, which is 79.62%.
